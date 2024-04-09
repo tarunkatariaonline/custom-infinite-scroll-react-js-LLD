@@ -1,8 +1,13 @@
-# React + Vite
+# React Infinite Scroll with Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+
+This project is a simple demonstration of implementing infinite scrolling in a React.js application using the Tailwind CSS framework. Infinite scrolling is a technique where content continues to load as the user scrolls down the page, providing a seamless browsing experience, especially for applications with large datasets.
+
+## Features
+
+- Seamless infinite scrolling functionality
+- Responsive design with Tailwind CSS
+- Easy integration into existing React.js projects
